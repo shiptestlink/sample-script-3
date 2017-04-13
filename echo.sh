@@ -1,4 +1,4 @@
-echo ' ---> Hello runSshnew verify commit for excepttag'
+echo ' ---> Hello runSshnew verify commit for excepttag pr'
 
 
 #sleep 5m
